@@ -9,7 +9,7 @@ body {
     display: flex;
 }
 #bloque {
-    width: 1300px;
+    width: 1000px;
     margin: 15px auto;
     text-align: left;
 }
@@ -37,7 +37,7 @@ a{
 }
 #seccion {
     float: left;
-    width: 1300px;
+    width: 1000px;
 }
 article {
     position: relative;
@@ -54,7 +54,7 @@ article {
 }
 
 .efecto-volteo {
-    width: 300px;
+    width: 200px;
     height: 100px;
     background-color: rgb(31,25,47);
     perspective: 1000px;
